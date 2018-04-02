@@ -1,0 +1,429 @@
+2017-09-13 10:28:37,228 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-13 10:33:33,441 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-13 10:35:40,104 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml
+2017-09-13 10:35:52,957 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:36:00,129 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/main/java
+2017-09-13 10:36:00,167 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/test/java
+2017-09-13 10:36:02,072 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 21 sec
+2017-09-13 10:36:07,529 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:36:07,540 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:36:07,588 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:36:07,588 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:38:22,779 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jsonGroupId:jsonArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAJAVASQLJEASON/jsonArtifactId/pom.xml.
+2017-09-13 10:38:26,909 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:38:26,910 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:38:26,964 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:38:26,965 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:39:06,618 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-13 10:39:13,886 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jsonGroupId:jsonArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAJAVASQLJEASON/jsonArtifactId/pom.xml.
+2017-09-13 10:39:14,531 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:39:18,911 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jsonArtifactId/src/main/java
+2017-09-13 10:39:18,918 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jsonArtifactId/src/test/java
+2017-09-13 10:39:19,609 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2017-09-13 10:39:21,640 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:39:21,641 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:39:21,693 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:39:21,693 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:39:25,778 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:39:25,778 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:39:25,836 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:39:25,837 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:40:31,180 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:40:31,181 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:40:31,204 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:40:31,204 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:40:31,275 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:40:31,276 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:40:31,289 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:40:31,289 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:40:52,159 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:40:52,160 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:40:52,182 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:40:52,189 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:42:42,652 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-13 10:42:46,015 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:42:46,296 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jsonGroupId:jsonArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAJAVASQLJEASON/jsonArtifactId/pom.xml.
+2017-09-13 10:42:47,678 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/main/java
+2017-09-13 10:42:47,683 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/test/java
+2017-09-13 10:42:48,092 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-09-13 10:42:48,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:42:48,775 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:42:48,817 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:42:48,817 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:42:49,257 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:42:49,257 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:42:49,278 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:42:49,279 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:49:37,276 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:49:37,714 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:49:37,719 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:49:37,738 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:49:37,755 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:49:42,267 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:49:42,268 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:49:42,296 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:49:42,306 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:56:10,338 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-13 10:56:13,507 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:56:13,904 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jsonGroupId:jsonArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAJAVASQLJEASON/jsonArtifactId/pom.xml.
+2017-09-13 10:56:14,849 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/main/java
+2017-09-13 10:56:14,863 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/test/java
+2017-09-13 10:56:15,319 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2017-09-13 10:56:15,886 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:15,908 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:56:15,938 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:15,951 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:56:16,349 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:16,349 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:56:16,364 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:16,365 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:56:40,281 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-13 10:56:42,746 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:56:43,027 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jsonGroupId:jsonArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAJAVASQLJEASON/jsonArtifactId/pom.xml.
+2017-09-13 10:56:43,854 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/main/java
+2017-09-13 10:56:43,858 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/test/java
+2017-09-13 10:56:44,252 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-09-13 10:56:44,685 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:44,685 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:56:44,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:44,718 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:56:45,107 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:45,112 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:56:45,128 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:45,129 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:56:55,332 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 10:56:58,526 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2017-09-13 10:56:58,648 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2017-09-13 10:56:58,737 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2017-09-13 10:56:58,842 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2017-09-13 10:56:59,380 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:59,381 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:56:59,427 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:56:59,428 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 10:57:04,690 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:57:04,690 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 10:57:04,717 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:57:04,717 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 10:57:05,205 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:57:05,206 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 10:57:05,224 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:57:05,224 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 13:51:20,572 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:51:20,605 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 13:51:20,608 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:51:20,610 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:02:19,432 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:02:19,432 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:02:19,515 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:02:19,522 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:08:43,551 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:08:43,552 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:08:43,593 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:08:43,594 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:10:12,698 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:10:12,699 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:10:12,724 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:10:12,735 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:11:19,482 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:11:19,487 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:11:19,510 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:11:19,514 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:13:42,527 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:42,527 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:13:42,546 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:42,550 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:28:12,282 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:28:12,286 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:28:12,289 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:28:12,290 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:35:37,806 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:35:37,807 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:35:37,842 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:35:37,843 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:38:01,116 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:38:01,116 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:38:01,131 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:38:01,132 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:39:44,242 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:39:44,243 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:39:44,255 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:39:44,257 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 14:57:23,830 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:23,831 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 14:57:23,864 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:23,864 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 15:07:08,371 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:08,372 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 15:07:08,381 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:08,382 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 15:11:45,346 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:11:45,347 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 15:11:45,352 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:11:45,353 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 15:14:13,933 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:14:13,933 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 15:14:13,944 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:14:13,945 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 15:16:06,041 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:16:06,043 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 15:16:06,052 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:16:06,052 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 16:19:45,478 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:19:45,502 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 16:19:45,505 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:19:45,505 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 16:21:23,819 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:21:23,819 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 16:21:23,845 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:21:23,846 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 16:27:52,760 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:27:52,761 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 16:27:52,768 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:27:52,768 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 16:30:02,783 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:30:02,787 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 16:30:02,797 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:30:02,798 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 17:40:35,149 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 17:40:35,151 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 17:40:35,154 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 17:40:35,161 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 17:48:51,202 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 17:48:51,210 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 17:48:51,225 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 17:48:51,225 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 18:56:37,960 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 18:56:37,961 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 18:56:37,970 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 18:56:37,971 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 19:35:10,857 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:35:10,857 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 19:35:10,872 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:35:10,872 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 19:36:03,032 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:36:03,033 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 19:36:03,035 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:36:03,036 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 19:39:28,918 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:39:28,918 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 19:39:28,921 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:39:28,921 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 19:44:13,103 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:44:13,104 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 19:44:13,131 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 19:44:13,132 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 20:42:56,870 [Worker-101] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-13 20:43:06,566 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 20:43:07,123 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jsonGroupId:jsonArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAJAVASQLJEASON/jsonArtifactId/pom.xml.
+2017-09-13 20:43:10,096 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/main/java
+2017-09-13 20:43:10,097 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /srvArtifactId/src/test/java
+2017-09-13 20:43:11,339 [Worker-101] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2017-09-13 20:43:12,402 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:43:12,474 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/main/resources
+2017-09-13 20:43:12,491 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:43:12,521 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAJAVASQLJEASON/jsonArtifactId/src/test/resources
+2017-09-13 20:43:15,149 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:43:15,150 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 20:43:15,170 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:43:15,171 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 20:52:29,829 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: srvGroupId:srvArtifactId:0.0.1-SNAPSHOT @ /home/seppo/WAServantMYSQL/srvArtifactId/pom.xml.
+2017-09-13 20:52:30,076 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:52:30,076 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 20:52:30,085 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:52:30,086 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 20:52:32,927 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:52:32,927 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 20:52:32,930 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:52:32,931 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 20:55:10,296 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:55:10,296 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 20:55:10,299 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:55:10,299 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 20:57:24,998 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:57:24,999 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 20:57:25,002 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:57:25,002 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:02:47,198 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:02:47,199 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:02:47,201 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:02:47,202 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:06:32,025 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:06:32,025 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:06:32,059 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:06:32,059 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:07:46,968 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:07:46,981 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:07:47,003 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:07:47,007 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:11:25,579 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:11:25,580 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:11:25,582 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:11:25,583 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:11:48,075 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:11:48,076 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:11:48,083 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:11:48,084 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:13:46,857 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:13:46,857 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:13:46,860 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:13:46,865 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:17:31,868 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:17:31,868 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:17:31,874 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:17:31,875 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:29:42,401 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:29:42,402 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:29:42,405 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:29:42,405 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:34:42,851 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:34:42,852 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:34:42,874 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:34:42,906 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:38:32,447 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:38:32,447 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:38:32,500 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:38:32,500 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:43:55,153 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:43:55,154 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:43:55,156 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:43:55,162 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:46:20,920 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:46:20,921 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:46:20,932 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:46:20,933 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:50:54,560 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:50:54,582 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:50:54,585 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:50:54,586 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 21:56:14,536 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:56:14,537 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 21:56:14,548 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:56:14,585 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 22:00:06,812 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:00:06,815 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 22:00:06,829 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:00:06,830 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-13 22:03:06,703 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:03:06,704 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-13 22:03:06,715 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:03:06,716 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 09:13:56,050 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 09:13:56,283 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 09:13:56,297 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 09:13:56,380 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 09:16:35,769 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 09:16:35,770 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 09:16:35,779 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 09:16:35,779 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 09:19:58,933 [Worker-200] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-14 09:20:00,221 [Worker-200] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.howtodoinjava.demo:JSONSimpleExamples:0.0.1-SNAPSHOT @ /home/seppo/Documents/JSONSimpleExamples/pom.xml.
+2017-09-14 09:20:03,292 [Worker-200] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2017-09-14 09:20:03,778 [Worker-200] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2017-09-14 09:20:03,981 [Worker-200] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2017-09-14 09:20:04,303 [Worker-200] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2017-09-14 09:20:04,348 [Worker-200] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2017-09-14 09:20:04,740 [Worker-200] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2017-09-14 09:20:09,459 [Worker-200] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSONSimpleExamples/src/main/java
+2017-09-14 09:20:09,495 [Worker-200] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSONSimpleExamples/src/test/java
+2017-09-14 09:20:10,375 [Worker-200] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2017-09-14 09:20:10,585 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 09:20:10,585 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/Documents/JSONSimpleExamples/src/main/resources
+2017-09-14 09:20:10,601 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 09:20:10,602 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/Documents/JSONSimpleExamples/src/test/resources
+2017-09-14 17:28:19,450 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 17:28:19,511 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 17:28:19,513 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 17:28:19,522 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 17:55:24,648 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 17:55:24,649 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 17:55:24,663 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 17:55:24,664 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 17:56:30,407 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 17:56:30,407 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 17:56:30,412 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 17:56:30,413 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 19:03:09,858 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 19:03:09,905 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 19:03:09,934 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 19:03:09,934 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 19:04:18,546 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 19:04:18,547 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 19:04:18,549 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 19:04:18,550 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-14 19:15:11,035 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 19:15:11,036 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-14 19:15:11,039 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-14 19:15:11,039 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 12:35:40,995 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-17 12:40:18,619 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 12:40:18,624 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 12:40:18,640 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 12:40:18,646 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 12:42:39,419 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 12:42:39,448 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 12:42:39,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 12:42:39,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:02:09,092 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:02:09,092 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:02:09,117 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:02:09,118 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:14:35,986 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:14:35,993 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:14:36,003 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:14:36,010 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:18:53,726 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:18:53,727 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:18:53,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:18:53,732 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:19:20,760 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:19:20,760 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:19:20,778 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:19:20,778 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:19:33,040 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:19:33,044 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:19:33,052 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:19:33,053 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:27:13,994 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:27:13,994 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:27:14,018 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:27:14,019 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:29:56,352 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:29:56,353 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:29:56,391 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:29:56,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:38:46,984 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:38:46,995 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:38:47,003 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:38:47,003 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 13:45:33,734 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:45:33,734 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 13:45:33,742 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 13:45:33,743 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 14:28:43,446 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 14:28:43,447 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 14:28:43,451 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 14:28:43,451 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 14:34:15,695 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 14:34:15,708 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 14:34:15,712 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 14:34:15,720 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 17:22:53,693 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:22:53,701 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 17:22:53,731 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:22:53,732 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 17:27:02,203 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:27:02,203 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 17:27:02,206 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:27:02,207 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 17:27:32,738 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:27:32,740 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 17:27:32,751 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:27:32,755 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 17:28:00,980 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:28:00,981 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 17:28:00,985 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:28:00,986 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources
+2017-09-17 17:32:40,918 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:32:40,918 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/main/resources
+2017-09-17 17:32:40,925 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-17 17:32:40,926 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/seppo/WAServantMYSQL/srvArtifactId/src/test/resources

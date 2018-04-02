@@ -1,0 +1,82 @@
+package srvGroupId.srvArtifactId;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Iterator;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        JsonSimpleReadExample();
+        JSONObject obj = new JSONObject();
+        obj.put("nimi", "Pekka Potilas");
+        obj.put("ika", new Integer(4));
+        
+        JSONArray list = new JSONArray();
+        list.add("1. kaynti pelkaa tutustumista");
+        list.add("2. kaynti harjoteltiin arraa");
+        list.add("3. kaynti harjoiteltiin assaa");
+        list.add("4. harjioteltiin taas arraa");
+        list.add("5. lopputesti");
+        
+        obj.put("message", list);
+
+        
+        try{
+        	FileWriter file = new FileWriter("/home/seppo/test.json");
+        }catch (IOException e) {
+        	e.printStackTrace();
+        }
+        System.out.print(obj);
+    }
+    
+    public static void JsonSimpleReadExample() {
+    	JSONParser parser = new JSONParser();
+    	
+    	try {
+
+            Object obj = parser.parse(new FileReader("/home/seppo/test.json"));
+
+            JSONObject jsonObject = (JSONObject) obj;
+            System.out.println(jsonObject);
+
+            String name = (String) jsonObject.get("nimi");
+            System.out.println(name);
+
+            long age = (Long) jsonObject.get("ika");
+            System.out.println(age);
+
+            // loop array
+            JSONArray msg = (JSONArray) jsonObject.get("messages");
+            for(int i=0;i<msg.size();i++) {
+            	JSONObject Jobj = (JSONObject)msg.get(i);
+            	System.out.println(Jobj.toString());
+            }
+            //Iterator<String> iterator = msg.iterator();
+            //while (iterator.hasNext()) {
+            //    System.out.println(iterator.next());
+            //}
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
+}

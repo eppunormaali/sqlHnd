@@ -1,0 +1,134 @@
+package srvGroupId.srvArtifactId;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Date;
+import java.util.Iterator;
+
+import java.lang.Object;
+import java.sql.Connection;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args ) throws IOException
+    {
+    	databaseHandling dbhnd = new databaseHandling();
+    	Connection conn = null;
+    	
+    	dbhnd.createDatabase("TESTIDB", "root", "root");
+    	//conn=  dbhnd.selectDatabase("TESTIDB", "root", "root")
+    	dbhnd.createTableToDatabase("TESTIDB", "root", "root");
+    	dbhnd.insertRecordToDatabase("TESTIDB", "root", "root");
+    	dbhnd.updateRecordInDatabase("TESTIDB", "root", "root");
+    	dbhnd.deleteRecordFromDatabase("TESTIDB", "root", "root");
+    	dbhnd.deleteTableFromDatabase("TESTIDB", "root", "root");
+    	dbhnd.deleteDabase("TESTIDB", "root", "root");
+    	
+    	
+    	JSONObject startDate = new JSONObject();
+    	startDate.put("year", 2012);
+    	startDate.put("month", 4);
+    	startDate.put("day", 23);
+    	startDate.put("hour", 10);
+    	startDate.put("minute", 25);
+        JSONObject endDate = new JSONObject();
+        endDate.put("year", 2012);
+        endDate.put("month", 4);
+        endDate.put("day", 23);
+        endDate.put("hour", 11);
+        endDate.put("minute", 25);
+    	
+    	
+    	BufferedWriter out = null;
+        System.out.println( "Hello World!" );
+        
+        //JsonSimpleReadExample();
+        Location locat = new Location();
+        locat.getdata();
+        JSONObject obj = new JSONObject();
+        obj.put("nimi", "Pekka Potilas");
+        obj.put("osoite", "Rautatienkatu 2 90777 Sekala");
+        obj.put("ika", new Integer(4));
+        obj.put("huoltaja", "Hanna Huoltaja");
+        obj.put("huoltajan puhelin", "040665789");
+        
+        JSONObject sessio = new JSONObject();
+        //JSONArray list = new JSONArray();
+        sessio.put("sessio paikka", "Paikkakatu 00 90771 Sekala");
+        sessio.put("session aloitus", startDate);
+        sessio.put("session lopetus", endDate);
+        sessio.put("matka aika", 45);
+        sessio.put("huomio", "Istunto meni aika mukavsti vaikka keskittymisessa olisi parantamista jne..");
+        
+        //list.add("5. lopputesti");
+        
+        obj.put("sessiodata", sessio);
+        
+        JSONObject luku = new JSONObject();
+        //String luehuomio = luku.get("sessiodata").getClass("huomio");
+        
+        try{
+        	FileWriter file = new FileWriter("/home/seppo/test.json");
+        	out = new BufferedWriter(file);
+        	out.write(obj.toString());
+        }catch (IOException e) {
+        	e.printStackTrace();
+        }
+        finally
+        {
+            if(out != null) {
+                out.close();
+            }
+        }
+        System.out.print(obj);
+    }
+    
+    public static void JsonSimpleReadExample() {
+    	JSONParser parser = new JSONParser();
+    	
+    	try {
+
+            Object obj = parser.parse(new FileReader("/home/seppo/test.json"));
+
+            JSONObject jsonObject = (JSONObject) obj;
+            System.out.println(jsonObject);
+
+            String name = (String) jsonObject.get("nimi");
+            System.out.println(name);
+
+            long age = (Long) jsonObject.get("ika");
+            System.out.println(age);
+
+            // loop array
+            //JSONArray msg = (JSONArray) jsonObject.get("messages");
+            JSONArray arr = (JSONArray) jsonObject.get("message");
+            for(int i=0;i<arr.size();i++) {
+            	System.out.println(arr.get(i).toString());
+            }
+            //Iterator<String> iterator = msg.iterator();
+            //while (iterator.hasNext()) {
+            //    System.out.println(iterator.next());
+            //}
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
+    
+  }

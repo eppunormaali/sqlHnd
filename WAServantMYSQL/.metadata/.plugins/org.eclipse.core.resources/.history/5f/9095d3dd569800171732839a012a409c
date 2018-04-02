@@ -1,0 +1,22 @@
+package jsonGroupId.jsonArtifactId;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+import com.google.gson.Gson;
+
+public class ProductService {
+	String productDetails = null;
+	
+	ArrayList<Product> productData = new ArrayList<Product>();//single Product element
+	ProductDaoImpl productDaoImpl = new ProductDaoImpl();
+	
+	public void listItems(Connection Conn,PreparedStatement PrepareStat) throws SQLException {
+	productData = productDaoImpl.getProductDetails(Conn,PrepareStat);
+	Gson gson = new Gson();
+	productDetails =  gson.toJson(productData);
+	gson.
+	}
+}

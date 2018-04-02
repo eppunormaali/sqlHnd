@@ -1,0 +1,23 @@
+INDEX VERSION 1.130+/home/seppo/WAServantMYSQL/.metadata/.plugins/org.eclipse.jdt.core
+2451803195.index
+32761573.index
+1182022212.index
+1353434329.index
+3394150831.index
+3822570707.index
+1076396942.index
+1469258820.index
+669481279.index
+1615747407.index
+2758995267.index
+4173831964.index
+964521806.index
+2445839170.index
+2214476996.index
+3961654699.index
+2465581657.index
+1635403839.index
+109663321.index
+1019430654.index
+1490448261.index
+298487705.index

@@ -1,0 +1,43 @@
+package srvGroupId.srvArtifactId;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Date;
+import java.util.Iterator;
+
+import org.json.simple.JSONObject;
+
+public class Location {
+	public void getdata() {
+	JSONParser parser = new JSONParser();
+	String huomiot = null;
+	try {
+    Object obj = parser.parse(new FileReader("/home/seppo/test.json"));
+    JSONObject jsonObject = (JSONObject) obj;
+    JSONArray arr = (JSONArray) jsonObject.get("sessiodata");
+    for (int i=0; i<arr.size();i++) {
+        huomiot = arr.get(i).toString();
+
+    }
+  
+    
+	}
+    catch (FileNotFoundException e) {
+      e.printStackTrace();
+    } catch (IOException e) {
+      e.printStackTrace();
+   } catch (ParseException e) {
+      e.printStackTrace();
+   }
+
+	} 
+	
+}
